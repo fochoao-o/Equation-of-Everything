@@ -21,4 +21,6 @@ Substitution
 Fernando Ochoa Olivares.
 Physicial equation.
 
+Now consider log(30)rP^2
+
 Thanks everyone!
