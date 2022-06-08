@@ -14,11 +14,11 @@ Substitution
 (+x/2)-z
 (-x/2)+z
 
-(4/2)+z
-(-4/2)-z
-
 (+y/2)-z
 (-y/2)+z
+
+(4/2)+z
+(-4/2)-z
 
 Fernando Ochoa Olivares.
 Physicial equation.
