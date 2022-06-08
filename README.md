@@ -24,3 +24,6 @@ Physicial equation.
 Now consider log(30)rP^2
 
 Thanks everyone!
+
+
+This couldn't have been possible, first thanks to all my family, especially my dad and mom, my sisters, so my mentors, my dad, guys like OpenGPG founder, the IBM with the Mandelbrot Fractal, the guy from Apple who invented the elliptic curve, GRiYO which I took all his DDE calls during 96's from one of his DLL's, we emailed each other, Bhaskar Pant, Federico Quijada, this could not have been possible without the M.I.T. Education. From everyone You learn something in particular! as an IT engineer, who programs in at least ten languages, and knows some different cultural languages. Neurologist and knows General Medicine, Diagnosis too.
