@@ -6,7 +6,7 @@ Bootcamp
 SSH over nano @ https://github.com/fochoao
 
 
-htttps://github.com/fochoao/photogaleria
+https://github.com/fochoao/photogaleria
 
 
 
