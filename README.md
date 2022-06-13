@@ -8,13 +8,13 @@ E = T = L = (x1-,y+,x+,y-) = (y+,x-,y+,x-) + E = T = L
 
 Substitution
 
-(x+/2)+z1+z2+z3+z4
+(x+/2)+z1+z2+z3+z4 = 
 (-x/2)-z1-z1-z3-z4
 
-(+y/2)+z1+z2+z3+z4
+(+y/2)+z1+z2+z3+z4 =
 (-y/2)-z1-z2-z3-z4
 
-(4/2)+z1+z2+z3+z4
+(4/2)+z1+z2+z3+z4 =
 (-4/2)-z1-z2-z3-z4
 
 Fernando Ochoa Olivares.
