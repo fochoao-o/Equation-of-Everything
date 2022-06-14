@@ -11,7 +11,7 @@ https://github.com/fochoao/photogaleria
 
 
 
-M.I.T. Student from 2019
+M.I.T. Student from 2019 to Now
 
 https://www.credential.net/profile/fernandoochoa120798/wallet
 
